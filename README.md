@@ -1,4 +1,4 @@
-# [Create interactive dashboards on Watson Studio](https://developer.ibm.com/technologies/analytics/tutorials/create-interactive-dashboards-on-watson-studio/)
+# [Graphically build evaluate machine learning models using SPSS Modeler](https://developer.ibm.com/tutorials/watson-studio-spss-modeler-flow/)
 
 **Learning objectives**
 
