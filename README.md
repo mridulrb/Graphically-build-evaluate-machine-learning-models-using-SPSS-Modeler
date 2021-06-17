@@ -15,3 +15,8 @@ IBM Cloud Sign-up: https://ibm.biz/DeveloperSummit <br/>
 Event recording: https://virtual.eventtus.com/xongbf6b80wcfsbn7ah8mlm1whj7nrzw/backstage/zxjqqqkzxpk3lbgxjyg7scjf6iklo0ze <br/>
 Slides: https://ibm.biz/DeveloperSummit-SPSSSlides <br/>
 Survey: https://ibm.biz/DeveloperSummit-Survey
+
+**Speakers**<br/>
+![SpeakerTile-MostafaAbdelaleem](https://user-images.githubusercontent.com/12492961/122354997-934d6680-cf62-11eb-97d7-ab9ad81d120e.jpeg)
+
+![SpeakerTile-MridulBhandari](https://user-images.githubusercontent.com/12492961/122355048-9fd1bf00-cf62-11eb-96cc-9250dbfb8e3d.jpeg)
