@@ -9,7 +9,7 @@ What will you learn?🤔 <br/>
 - How to use the SPSS tool to profile and analyze data
 - How to train a machine learning model with SPSS and evaluate the results
 
-**Links**
+**Links** <br/>
 Link to the Tutorial - https://ibm.biz/DeveloperSummit-SPSSRepo <br/>
 IBM Cloud Sign-up: https://ibm.biz/DeveloperSummit <br/>
 Event recording: https://virtual.eventtus.com/xongbf6b80wcfsbn7ah8mlm1whj7nrzw/backstage/zxjqqqkzxpk3lbgxjyg7scjf6iklo0ze <br/>
