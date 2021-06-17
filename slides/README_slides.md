@@ -64,7 +64,7 @@ All Developers interested in machine learning and data science are welcome to at
 🎈 Prerequisites <br />
 ☁ Register for a free IBM Cloud Account: https://ibm.biz/DeveloperSummit
 
-🍉 Register for the live stream and replay on Crowdcast: <br/>
+🍉 Register for the live stream: <br/>
 https://virtual.eventtus.com/xongbf6b80wcfsbn7ah8mlm1whj7nrzw/backstage/zxjqqqkzxpk3lbgxjyg7scjf6iklo0ze
 
 👩‍💻Resources <br />
