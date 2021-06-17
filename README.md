@@ -19,8 +19,12 @@ Survey: https://ibm.biz/DeveloperSummit-Survey
 **Speakers**<br/>
 <!-- ![SpeakerTile-MostafaAbdelaleem](https://user-images.githubusercontent.com/12492961/122354997-934d6680-cf62-11eb-97d7-ab9ad81d120e.jpeg)
 
-![SpeakerTile-MridulBhandari](https://user-images.githubusercontent.com/12492961/122355048-9fd1bf00-cf62-11eb-96cc-9250dbfb8e3d.jpeg) -->
+![SpeakerTile-MridulBhandari](https://user-images.githubusercontent.com/12492961/122355048-9fd1bf00-cf62-11eb-96cc-9250dbfb8e3d.jpeg)
 
 <img src="https://user-images.githubusercontent.com/12492961/122354997-934d6680-cf62-11eb-97d7-ab9ad81d120e.jpeg" width="500" height="500">
 
-<img src="https://user-images.githubusercontent.com/12492961/122355048-9fd1bf00-cf62-11eb-96cc-9250dbfb8e3d.jpeg" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/12492961/122355048-9fd1bf00-cf62-11eb-96cc-9250dbfb8e3d.jpeg" width="500" height="500"> -->
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/12492961/122354997-934d6680-cf62-11eb-97d7-ab9ad81d120e.jpeg" width="500" height="500">  |  <img src="https://user-images.githubusercontent.com/12492961/122355048-9fd1bf00-cf62-11eb-96cc-9250dbfb8e3d.jpeg" width="500" height="500">
